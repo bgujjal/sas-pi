@@ -1,0 +1,3 @@
+Salt analysis is the process of finding the anion and cation which the salt contain through a systematic procedure. We add many reagents to the salt or perform tests and analyse the result to identify the anion and cation. This program is intended to help students practice salt analysis.
+
+This project is based on the original "Salt Analysis Simulator" by Ershad K. The original program was based on turbo C++. The aim of this project is to crate a platform-independent version of the original program, and perhaps make a few modifications.
